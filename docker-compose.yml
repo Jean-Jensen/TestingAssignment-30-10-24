@@ -6,7 +6,7 @@ services:
       - POSTGRES_PASSWORD=dbpass
       - POSTGRES_DB=testdb
     ports:
-      - '5432:5432'
+      - '5005:5005'
     volumes:
       - postgres_data:/var/lib/postgresql/data
 volumes:

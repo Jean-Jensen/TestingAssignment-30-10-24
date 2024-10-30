@@ -1,13 +1,13 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AJsonSerializationException_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002Econfig_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F7ca8898b690a4181a32a9cf767cedb1ea9c28_003Fe5_003F38dc32fa_003FJsonSerializationException_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=746c0254_002D2c82_002D477d_002Da62f_002D57960ae2415f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateBook_CanSuccessFullyCreateBook" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;Or&gt;
-    &lt;TestAncestor&gt;
-      &lt;TestId&gt;xUnit::68C3DCCB-3B32-4848-8058-9D791B68DC5D::net8.0::Api.IntegrationTests.Tests.BooksTests.CreateBook_CanSuccessFullyCreateBook&lt;/TestId&gt;
-      &lt;TestId&gt;xUnit::68C3DCCB-3B32-4848-8058-9D791B68DC5D::net8.0::Api.IntegrationTests.Tests.solutions.LoanTests.Loan_Fails_If_Book_Is_Borrowed&lt;/TestId&gt;
-      &lt;TestId&gt;xUnit::68C3DCCB-3B32-4848-8058-9D791B68DC5D::net8.0::Api.IntegrationTests.Tests.solutions.LoanTests.Loan_Fails_When_User_Book_Is_Not_Available&lt;/TestId&gt;
-      &lt;TestId&gt;xUnit::68C3DCCB-3B32-4848-8058-9D791B68DC5D::net8.0::Api.IntegrationTests.Tests.solutions.LoanTests.Loan_Is_Succesfull&lt;/TestId&gt;
-    &lt;/TestAncestor&gt;
-    &lt;ProjectFile&gt;68C3DCCB-3B32-4848-8058-9D791B68DC5D/d:Tests/f:BooksTests.cs&lt;/ProjectFile&gt;
-  &lt;/Or&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=746c0254_002D2c82_002D477d_002Da62f_002D57960ae2415f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateBook_CanSuccessFullyCreateBook" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::68C3DCCB-3B32-4848-8058-9D791B68DC5D::net8.0::Api.IntegrationTests.Tests.BooksTests.CreateBook_CanSuccessFullyCreateBook&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::68C3DCCB-3B32-4848-8058-9D791B68DC5D::net8.0::Api.IntegrationTests.Tests.solutions.LoanTests.Loan_Fails_If_Book_Is_Borrowed&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::68C3DCCB-3B32-4848-8058-9D791B68DC5D::net8.0::Api.IntegrationTests.Tests.solutions.LoanTests.Loan_Fails_When_User_Book_Is_Not_Available&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::68C3DCCB-3B32-4848-8058-9D791B68DC5D::net8.0::Api.IntegrationTests.Tests.solutions.LoanTests.Loan_Is_Succesfull&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;68C3DCCB-3B32-4848-8058-9D791B68DC5D/d:Tests/f:BooksTests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
